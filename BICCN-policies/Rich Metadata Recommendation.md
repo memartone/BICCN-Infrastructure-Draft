@@ -1,48 +1,79 @@
-dkNET FAIR Rich Metadata Specification for Datasets (F2.0)
+## dkNET FAIR Rich Metadata Specification for Datasets (F2.0)
 V1.2
 
 Author:  Maryann E. Martone (ORCID: 0000-0002-8406-3871)
 Adapted from:  The NIDDK Information Network (dkNET): RRID:SCR_001606
 Details provided at:  https://docs.google.com/spreadsheets/d/1UhXDwwIcIKlN4BRO3X_JODP23pNBuGPd_pKqPN0ZL0Y/edit?usp=sharing
 
+## Metadata elements
+
 Title of dataset: 
+
 Author(s):
+
 Author(s) ORCID:
+
 Data contributors + roles:
+
 Contact:
+
 Contact information:
-Dataset description
+
+Dataset description:
+
 Data repository:  Name of repository where data was deposited
+
 Data repository RRID
+
 Dataset ID: DOI or database accession number
+
 Full dataset citation: 
+
 Data publication (if any): DOI or PubMed ID
+
 Study publication (if any): DOI or PubMed ID
+
 Data files included
+
 Version
+
 Release date
+
 Consortium or Project collecting the data
+
 Consortium or Project RRID
+
 Grant support
+
 Keywords:
 
 
-
 Data license:
+
 Data access:
+
 Dataset parts description:
+
 Dataset part ID’s
+
 Dataset parts repositories
+
 Community standards used:
 
 
 
 Study organism
+
 Condition studied
+
 Number of subjects studied
+
 Sex of subjects
+
 Age of subjects (range or categorical, e.g., adult)
+
 Protocol type
+
 Protocol ID
 
 ----------------------------------------
